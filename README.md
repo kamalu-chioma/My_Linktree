@@ -6,6 +6,6 @@ Access url: [My Linktree](https://kamalu-chioma.github.io/My_Linktree/)
 
 License: MIT License
 
-Contribute: Fork, modify, and create pull requests on GitHub.
+Contribute: Fork, and create pull requests on GitHub.
 
 Author: Chioma Kamalu
