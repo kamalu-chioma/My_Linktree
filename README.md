@@ -1,8 +1,8 @@
 Project Name: My Linktree
 
-Description: Simple web-based directory to share and showcase your online links.
+Description: static web-based directory to share and showcase your online links.
 
-Access url: [My Linktree](https://kamalu-chioma.github.io/My_Linktree/)
+Access URL: [My Linktree](https://kamalu-chioma.github.io/My_Linktree/)
 
 License: MIT License
 
