@@ -1,8 +1,8 @@
-Project Name: My Linktree
+Project Name: My Quick links
 
 Description: static web-based directory to share and showcase your online links.
 
-Access URL: [My Linktree](https://kamalu-chioma.github.io/My_Linktree/)
+Access URL: [My Quicklinks](https://kamalu-chioma.github.io/My_Linktree/)
 
 License: MIT License
 
